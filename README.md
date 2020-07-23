@@ -15,8 +15,24 @@
 
 <a name="qc-communities"></a>
 # QC Communities
-*Coming soon!* 
-
+1. [QWorld](https://qworld.lu.lv) - QWorld is a global network of individuals, groups, and communities collaborating on education and implementation of quantum technologies and research activities.
+   - [QTurkey](http://qworld.lu.lv/index.php/qturkey/)
+   - [QLatvia](http://qworld.lu.lv/index.php/qlatvia/)
+   - [QHungary](http://qworld.lu.lv/index.php/qhungary/)
+   - [QBalkan](http://qworld.lu.lv/index.php/qbalkan/)
+   - [QPoland](http://qworld.lu.lv/index.php/qpoland/)
+   - [QRussia](http://qworld.lu.lv/index.php/qrussia/)
+   - [QSlovakia](http://qworld.lu.lv/index.php/qslovakia/)
+2. [QuantumComputing StackExchange](https://quantumcomputing.stackexchange.com) - Q&A platform for quantum computing
+3. [Subreddit for Quantum Computing](https://www.reddit.com/r/QuantumComputing/) - Subreddit for discussion of quantum computing topics
+4. [IBM Q Community](https://qiskit.org/advocates) - A global program that provides support to the individuals who actively contribute to the Qiskit Community
+5. [Qiskit Slack](https://qiskit.slack.com) - Slack channel for Qiskit community
+6. [Q# Community](https://qsharp.community) - This group collects + maintains projects related to the Q# programming language by a community of folks who are excited about quantum programming!
+7. [PennyLane Forum](https://discuss.pennylane.ai) - Forum for quantum machine learning discussions
+8. [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Strawberry Fields library
+9. [Tensorflow Quantum Community](https://stackoverflow.com/questions/tagged/tensorflow-quantum) - Q&A for Tensorflow Quantum
+10. [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for Quantum Computer Scientists
+11. [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - Chat rooms for quantum programming
 <a name="events-talks"></a>
 # QC Events & Talks
 *Coming soon!* 
