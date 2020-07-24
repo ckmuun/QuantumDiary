@@ -7,7 +7,7 @@
 | -------------------------------- | -------------------------------- |
 | [QC Fundamentals](#qc-fundamentals) | [QC Communities](#qc-communities) |
 | [QC Events & Talks](#events-talks) | [QC Papers](#qc-papers)
-| [QC Books](#qc-books) | [Open-Source QC Frameworks/Libraries](#open-source-tech) |
+| [QC/QP Books](#qc-books) | [Open-Source QC Frameworks/Libraries](#open-source-tech) |
 
 <a name="qc-fundamentals"></a>
 # QC Fundamentals
@@ -87,8 +87,25 @@
 *Coming soon!* 
 
 <a name="qc-books"></a>
-# QC Books
-*Coming soon!*
+# QC/QP Books
+
+## Quantum Computing
+
+- The Amazing World of Quantum Computing (Rajendra K. Bera, 2020)
+- Quantum Computing for Everyone (Chris Bernhardt, 2019)
+- Quantum Computing: An Applied Approach (Jack Hidary, 2019)
+- Dancing with Qubits: How quantum computing works and how it can change the world (Robert S. Sutor, 2019)
+- Mathematics of Quantum Computing: An Introduction (Wolfgang Scherer,2019)
+- Quantum Computing Since Democritus (Scott Aaronson, 2013)
+- Computing with Quantum Cats: From Colossus to Qubits (John Gribbin, 2013)
+- Quantum Computing for Computer Scientists (Noson S. Yanofsky, Mirco A. Mannucci, 2013)
+- Mathematics of Quantum Computation and Quantum Technology (Louis Kauffman, Samuel J. Lomonaco, 2007)
+
+## Quantum Programming
+
+- Programming Quantum Computers: Essential Algorithms and Code Samples (Eric R. Johnston, Nic Harrigan, Mercedes Gimeno-Segovia, 2019)
+- Practical Quantum Computing for Developers: Programming Quantum Rigs in the Cloud using Python, Quantum Assembly Language and IBM QExperience (Vladimir Silva, 2018)
+- Foundations of Quantum Programming (Mingsheng Ying, 2016)
 
 <a name="open-source-tech"></a>
 # Open-Source QC Frameworks/Libraries
