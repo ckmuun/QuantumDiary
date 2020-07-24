@@ -37,7 +37,7 @@
 <a name="events-talks"></a>
 # QC Events & Talks
 
-*Thanks to Özlem Salehi Köken & Zeki Seskir for creating this section.*
+*Special thanks to Özlem Salehi Köken & Zeki Seskir for creating this section.*
 
 ## QWorld Events
 - [Q&A session with Scott Aaronson on quantum computing from 80s to 20s](http://qworld.lu.lv/index.php/qwebinars/) - July 15, 2020
@@ -109,7 +109,24 @@
 
 <a name="open-source-tech"></a>
 # QC Frameworks/Libraries
-*Coming soon!* 
+
+- [Qiskit](https://qiskit.org) - Qiskit is an open source SDK for working with quantum computers at the level of pulses, circuits and algorithms
+- [Qiskit.js](https://github.com/qiskit-community/qiskit-js) - IBM’s quantum information software kit for JavaScript.
+- [PennyLane](https://pennylane.ai) - A cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations
+- [Tensorflow Quantum](https://www.tensorflow.org/quantum) - TensorFlow Quantum (TFQ) is a Python framework for quantum machine learning.
+- [Strawberry Fields](https://strawberryfields.ai) - A cross-platform Python library for simulating and executing programs on quantum photonic hardware.
+- [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit) -
+- [Ocean SDK](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - Ocean software is a suite of tools D-Wave Systems provides on the D-Wave GitHub repository for solving hard problems with quantum computers.
+- [Rigetti Forest](https://github.com/rigetti/pyquil) - The Rigetti Forest suite consists of a quantum instruction language called Quil, an open source Python library for construction Quil programs called pyQuil, a library of quantum programs called Grove, and a simulation environment called QVM standing for Quantum Virtual Machine. 
+- [Cirq](https://github.com/quantumlib/cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+- [ProjectQ](https://projectq.ch) - ProjectQ is an open-source software framework for quantum computing implemented in Python.
+- [Yao.jl](https://yaoquantum.org) - Yao is an extensible, efficient open-source framework for quantum algorithm design.
+- [Quantum++](https://github.com/softwareQinc/qpp) - High-performance general purpose quantum simulator (can simulate d-dimensional qudits).
+- [Qbsolv](https://github.com/dwavesystems/qbsolv) - QUBO solver with D-Wave or classical tabu solver backend.
+- [QRL](https://github.com/theQRL/QRL/) - Quantum Resistant Ledger utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
+- [Qlab](https://github.com/BBN-Q/Qlab) - Measurement and control software for superconducting qubits.
+- [BLACK-STONE](https://github.com/thephoeron/black-stone) - Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dtunacs?style=social)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DogukanTuna?tab=followers)
