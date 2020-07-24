@@ -7,7 +7,7 @@
 | -------------------------------- | -------------------------------- |
 | [QC Fundamentals](#qc-fundamentals) | [QC Communities](#qc-communities) |
 | [QC Events & Talks](#events-talks) | [QC Papers](#qc-papers)
-| [QC/QP Books](#qc-books) | [Open-Source QC Frameworks/Libraries](#open-source-tech) |
+| [QC/QP Books](#qc-books) | [QC Frameworks/Libraries](#open-source-tech) |
 
 <a name="qc-fundamentals"></a>
 # QC Fundamentals
@@ -108,7 +108,7 @@
 - Foundations of Quantum Programming (Mingsheng Ying, 2016)
 
 <a name="open-source-tech"></a>
-# Open-Source QC Frameworks/Libraries
+# QC Frameworks/Libraries
 *Coming soon!* 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dtunacs?style=social)
