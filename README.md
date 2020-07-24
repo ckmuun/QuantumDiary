@@ -11,7 +11,34 @@
 
 <a name="qc-fundamentals"></a>
 # QC Fundamentals
-*Coming soon!*
+
+## Learning
+
+- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing)
+- [What is Quantum Computer?](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing/)
+- [How Do Quantum Computers Work?](https://www.sciencealert.com/quantum-computers)
+- [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
+- [Quantum Information Science I](https://www.edx.org/course/quantum-information-science-i-part-1)
+- [Quantum Information Science Lecture Notes by MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/)
+- [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning)
+- [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
+- [Elements of Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI)
+- [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+
+## Application Areas
+
+- AI/ML
+- Computational Science
+- Cybersecurity & Cryptography
+- Drug Discovery
+- Espionage
+- Finance
+- Modelling
+- Optimization
+- Research
+- Simulations
+- Technology Design & Development
+- Weather Forecasting
 
 <a name="qc-communities"></a>
 # QC Communities
