@@ -7,10 +7,23 @@
 | -------------------------------- | -------------------------------- |
 | [QC Fundamentals](#qc-fundamentals) | [QC Communities](#qc-communities) |
 | [QC Events & Talks](#events-talks) | [QC Papers](#qc-papers)
-| [QC/QP Books](#qc-books) | [QC Frameworks/Libraries](#open-source-tech) |
+| [QC/QP Books](#qc-books) | [QC Tools](#qc-tools) |
 
 <a name="qc-fundamentals"></a>
 # QC Fundamentals
+
+## Prerequisites
+
+*Prerequisites recommended to browse.*
+
+- Algorithms
+- Basics of Quantum Mechanics
+- Boolean Algebra
+- Complex Numbers
+- Linear Algebra
+- Mid-level computer science knowledge
+- Probability
+- Statistics
 
 ## Learning
 
@@ -24,15 +37,21 @@
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
 - [Elements of Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI)
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
+- [CNOT: Introduction to Quantum Computing](https://cnot.io/get_started/)
+- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorials)
+- [Quantum Algorithm Zoo](http://quantumalgorithmzoo.org)
+- [Introduction to Quantum Computing by Saint Petersburg University](https://www.coursera.org/learn/quantum-computing-algorithms)
+- [Physical Basics of Quantum Computing by Saint Petersburg University](https://www.coursera.org/learn/physical-basis-quantum-computing)
 
 ## Application Areas
 
-- AI/ML
+- Artificial Intelligence
 - Computational Science
 - Cybersecurity & Cryptography
 - Drug Discovery
 - Espionage
 - Finance
+- Machine Learning
 - Modelling
 - Optimization
 - Research
@@ -111,7 +130,15 @@
 
 <a name="qc-papers"></a>
 # QC Papers
-*Coming soon!* 
+
+- [The Quantum App Store Is Coming](https://www.scientificamerican.com/article/the-quantum-app-store-is-coming/)
+- [Quantum Programming 101: 16 Qubit Random Number Generator Tutorial](https://thequantumdaily.com/2019/11/04/quantum-programming-101-16-qubit-random-number-generator-tutorial/)
+- [TQD Exclusive: A Detailed Review of Qubit Implementations for Quantum Computing](https://thequantumdaily.com/2020/05/21/tqd-exclusive-a-detailed-review-of-qubit-implementations-for-quantum-computing/)
+- [New software brings quantum network design to users around the world](https://qt.eu/newsroom/new-software-brings-quantum-network-design-to-users-around-the-world/)
+- [Proof that noisy quantum computers can outperform classical machines](https://www.ibm.com/blogs/research/2020/07/quantum-advantage-shallow-circuits/)
+- [Quantum algorithms implementation in the NISQ era](https://www.swissquantumhub.com/quantum-algorithms-implementation-in-the-nisq-era/)
+- [Top 10 Quantum Cryptography Companies 2020: The Future of Quantum Cryptography](https://teletype.in/@valmik/ugUYojQHB)
+- [‘Hybrid’ Quantum Networking demonstrated for first time](https://www.swissquantumhub.com/hybrid-quantum-networking-demonstrated-for-first-time/)
 
 <a name="qc-books"></a>
 # QC/QP Books
@@ -127,6 +154,7 @@
 - Computing with Quantum Cats: From Colossus to Qubits (John Gribbin, 2013)
 - Quantum Computing for Computer Scientists (Noson S. Yanofsky, Mirco A. Mannucci, 2013)
 - Mathematics of Quantum Computation and Quantum Technology (Louis Kauffman, Samuel J. Lomonaco, 2007)
+- Quantum Computing Explained (David McMahon, 2007)
 
 ## Quantum Programming
 
@@ -134,8 +162,23 @@
 - Practical Quantum Computing for Developers: Programming Quantum Rigs in the Cloud using Python, Quantum Assembly Language and IBM QExperience (Vladimir Silva, 2018)
 - Foundations of Quantum Programming (Mingsheng Ying, 2016)
 
-<a name="open-source-tech"></a>
-# QC Frameworks/Libraries
+<a name="qc-tools"></a>
+# QC Tools
+
+## Programming Languages for QC
+
+- Python
+- Julia
+- Q#
+- Quantum Computation Language
+- Silq
+- Q Language
+- QML
+- OpenQASM
+- Q|SI>
+- QMASM
+
+## Development Tools/Libraries for QC
 
 - [Qiskit](https://qiskit.org) - Qiskit is an open source SDK for working with quantum computers at the level of pulses, circuits and algorithms
 - [Qiskit.js](https://github.com/qiskit-community/qiskit-js) - IBM’s quantum information software kit for JavaScript.
@@ -153,7 +196,9 @@
 - [QRL](https://github.com/theQRL/QRL/) - Quantum Resistant Ledger utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.
 - [Qlab](https://github.com/BBN-Q/Qlab) - Measurement and control software for superconducting qubits.
 - [BLACK-STONE](https://github.com/thephoeron/black-stone) - Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers
-
+- [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
+- [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
+- [NISQAI](https://github.com/quantumai-lib/nisqai) - A Python toolkit for quantum neural networks.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dtunacs?style=social)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DogukanTuna?tab=followers)
