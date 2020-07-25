@@ -165,7 +165,7 @@
 <a name="qc-tools"></a>
 # QC Tools
 
-## Programming Languages for QC
+## Programming Languages
 
 - Python
 - Julia
@@ -178,7 +178,7 @@
 - Q|SI>
 - QMASM
 
-## Development Tools/Libraries for QC
+## Development Tools/Libraries
 
 - [Qiskit](https://qiskit.org) - Qiskit is an open source SDK for working with quantum computers at the level of pulses, circuits and algorithms
 - [Qiskit.js](https://github.com/qiskit-community/qiskit-js) - IBM’s quantum information software kit for JavaScript.
