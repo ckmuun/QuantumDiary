@@ -14,8 +14,6 @@
 
 ## Prerequisites
 
-*Prerequisites recommended to browse.*
-
 - Algorithms
 - Basics of Quantum Mechanics
 - Boolean Algebra
