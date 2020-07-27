@@ -139,6 +139,8 @@
 - [Quantum algorithms implementation in the NISQ era](https://www.swissquantumhub.com/quantum-algorithms-implementation-in-the-nisq-era/)
 - [Top 10 Quantum Cryptography Companies 2020: The Future of Quantum Cryptography](https://teletype.in/@valmik/ugUYojQHB)
 - [‘Hybrid’ Quantum Networking demonstrated for first time](https://www.swissquantumhub.com/hybrid-quantum-networking-demonstrated-for-first-time/)
+- [Quantum computation, quantum theory and AI](https://www.sciencedirect.com/science/article/pii/S0004370209001398)
+- [A Study on the basics of Quantum Computing](https://arxiv.org/vc/quant-ph/papers/0511/0511061v1.pdf)
 
 <a name="qc-books"></a>
 # QC/QP Books
@@ -200,6 +202,7 @@
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - A Python toolkit for quantum neural networks.
 - [staq](https://github.com/softwareQinc/staq) - staq is a modern C++17 library for the synthesis, transformation, optimization and compilation of quantum circuits.
+- [Quantum Programming Studio](https://quantum-circuit.com)- The Quantum Programming Studio is a web based graphical user interface designed to allow users to construct quantum algorithms and obtain results by simulating directly in browser or by executing on real quantum computers
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dtunacs?style=social)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DogukanTuna?tab=followers)
