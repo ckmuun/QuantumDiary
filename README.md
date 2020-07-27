@@ -199,6 +199,7 @@
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - A Python toolkit for quantum neural networks.
+- [staq](https://github.com/softwareQinc/staq) - staq is a modern C++17 library for the synthesis, transformation, optimization and compilation of quantum circuits.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dtunacs?style=social)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DogukanTuna?tab=followers)
