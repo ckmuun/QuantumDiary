@@ -57,7 +57,6 @@
 - Simulations
 - Technology Design & Development
 - Weather Forecasting
-- 
 
 <a name="qc-communities"></a>
 # QC Communities
