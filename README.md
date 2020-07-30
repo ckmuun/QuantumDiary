@@ -52,10 +52,12 @@
 - Machine Learning
 - Modelling
 - Optimization
+- Quantum Chemistry
 - Research
 - Simulations
 - Technology Design & Development
 - Weather Forecasting
+- 
 
 <a name="qc-communities"></a>
 # QC Communities
