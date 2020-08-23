@@ -205,4 +205,4 @@
 - [Quantum Programming Studio](https://quantum-circuit.com)- The Quantum Programming Studio is a web based graphical user interface designed to allow users to construct quantum algorithms and obtain results by simulating directly in browser or by executing on real quantum computers
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dtunacs?style=social)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DogukanTuna?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dtunacs?tab=followers)
