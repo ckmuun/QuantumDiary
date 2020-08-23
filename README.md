@@ -140,6 +140,7 @@
 - [‘Hybrid’ Quantum Networking demonstrated for first time](https://www.swissquantumhub.com/hybrid-quantum-networking-demonstrated-for-first-time/)
 - [Quantum computation, quantum theory and AI](https://www.sciencedirect.com/science/article/pii/S0004370209001398)
 - [A Study on the basics of Quantum Computing](https://arxiv.org/vc/quant-ph/papers/0511/0511061v1.pdf)
+- [UCLA Computer Scientists Set Benchmarks to Optimize Quantum Computer Performance](https://samueli.ucla.edu/ucla-computer-scientists-set-benchmarks-to-optimize-quantum-computer-performance/)
 
 <a name="qc-books"></a>
 # QC/QP Books
