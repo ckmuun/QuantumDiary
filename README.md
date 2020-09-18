@@ -118,6 +118,10 @@
 - [Knowledge Transfer Network – Quantum Computing For Neural Networks](https://web-eur.cvent.com/event/a15d55b5-42fc-4fcd-8c7b-ef2c5b3e773b/summary?rp=00000000-0000-0000-0000-000000000000) - July 30, 2020
 - [Dr. Christopher Savoie, Dr. Yudong Cao – Panel Discussion](https://www.eventbrite.ca/e/panel-discussion-topic-tbd-tickets-110508074626) - August 4, 2020
 - [AI3SD Online Seminar Series: Quantum Computing: A Guide for the Perplexed](https://www.eventbrite.co.uk/e/ai3sd-online-seminar-series-quantum-computing-a-guide-for-the-perplexed-tickets-113452276814) - August 12, 2020
+
+## Hackathon
+- [Quantum Technologies Hackathon from QTurkey 10-11 September Online](https://www.qturkey.org/hackathon)
+
 ## Others
 - [ETH Zürich QSIT Seminars](https://video.ethz.ch/speakers/qsitseminars.html)
 - [Le Lab Quantique Meetups](https://lelabquantique.com/)
@@ -141,6 +145,7 @@
 - [Quantum computation, quantum theory and AI](https://www.sciencedirect.com/science/article/pii/S0004370209001398)
 - [A Study on the basics of Quantum Computing](https://arxiv.org/vc/quant-ph/papers/0511/0511061v1.pdf)
 - [UCLA Computer Scientists Set Benchmarks to Optimize Quantum Computer Performance](https://samueli.ucla.edu/ucla-computer-scientists-set-benchmarks-to-optimize-quantum-computer-performance/)
+- [New machine learning-assisted method rapidly classifies quantum sources](https://www.purdue.edu/newsroom/releases/2020/Q3/new-machine-learning-assisted-method-rapidly-classifies-quantum-sources.html)
 
 <a name="qc-books"></a>
 # QC/QP Books
